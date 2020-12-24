@@ -1,7 +1,7 @@
 {
   "name": "autokz/test",
   "description": "Test project",
-  "type": "project",
+  "type": "library",
   "license": "BSD-3-Clause",
   "config": {
     "process-timeout": 0,
@@ -23,6 +23,7 @@
       "Test\\": "tests/"
     }
   },
+  "minimum-stability": "dev",
   "scripts": {
   }
 }
