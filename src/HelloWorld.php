@@ -6,8 +6,8 @@ namespace App;
 
 class HelloWorld
 {
-    public static function hello(): void
+    public static function getRandInt(): int
     {
-        echo 'Hello World';
+        return rand(10000, 99999);
     }
 }
