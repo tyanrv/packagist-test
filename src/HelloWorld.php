@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App;
+namespace Autokz\App;
 
 class HelloWorld
 {
