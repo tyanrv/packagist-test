@@ -3,6 +3,7 @@
   "description": "Test project",
   "type": "library",
   "license": "BSD-3-Clause",
+  "version": "1.0.0",
   "config": {
     "process-timeout": 0,
     "sort-packages": true
