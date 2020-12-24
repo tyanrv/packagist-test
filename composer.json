@@ -2,16 +2,13 @@
   "name": "autokz/test",
   "description": "Test project",
   "type": "library",
-  "license": "BSD-3-Clause",
+  "license": "proprietary",
   "config": {
     "process-timeout": 0,
     "sort-packages": true
   },
   "require": {
     "php": "^7.4"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^9.5"
   },
   "autoload": {
     "psr-4": {
@@ -23,7 +20,7 @@
       "Test\\": "tests/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "scripts": {
   }
 }
